@@ -1,0 +1,9 @@
+venv/
+.idea/
+*.iml
+*.session
+*.session-journal
+data/
+.env
+*.mp3
+*.raw

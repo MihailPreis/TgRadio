@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+Pyrogram==1.2.9
+pytgcalls==0.0.23
+python-dotenv==0.18.0
+TgCrypto==1.2.2
